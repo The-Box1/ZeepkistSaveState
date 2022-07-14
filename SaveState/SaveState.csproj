@@ -6,7 +6,7 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 
         <Version>1.0.0</Version>
-        <Description>Restart at saved point of testing track in Zeepkist</Description>
+        <Description>Restart at a saved point while testing a track in Zeepkist</Description>
         <Authors>The Box</Authors>
     </PropertyGroup>
 

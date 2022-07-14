@@ -1,9 +1,11 @@
 # Usage
 
-The minimum amount of players is 1 and the maximum is 16
+Features only work while testing a track in the level editor
 
-When creating a lobby, there's an option to for an amount of players
+Intended to be used as checkpoint for track building that allows you to keep momentum, position, and angle
 
-There's also an option to change this while in a lobby inside the Host Controls panel
+Press X to save the current state of the car
 
-In the tab list, at the top left, the current amount of players and the maximum currently set is shown
+Press Z to remove the current saved state
+
+When the car spawns, if a save exists, it will be put in that position. After ~2 seconds, velocity will be applied
